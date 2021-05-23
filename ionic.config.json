@@ -1,0 +1,8 @@
+{
+  "name": "google_assistant_ionic",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
